@@ -1,5 +1,7 @@
 # ePubs
 
+All epubs are wrapped in a .zip file to avoid GitHub download issues.
+
 Available:
 - [Ananda Coomaraswamy](https://github.com/geneWild/ananda-coomaraswamy)
 - [C.S. Lewis](https://github.com/geneWild/cs-lewis/)
